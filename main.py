@@ -1,1 +1,3 @@
 print ("Labadīna!")
+
+print("Sveiki!")
